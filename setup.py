@@ -14,7 +14,7 @@ setup(
     author_email="<alvarocamachodavila@gmail.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
-    long_description=long_description,
+    long_description=LONG_DESCRIPTION,
     packages=find_packages(),
     install_requires=['opencv-python', 'numpy'],
     keywords=['python', 'image', 'numpy', 'RGB', 'Vectorize', 'opencv'],
